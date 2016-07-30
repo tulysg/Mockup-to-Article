@@ -1,0 +1,24 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+
+
+
+ * What new skills have you learned?
+ 
+
+I have learned some new html tags, for example <sup>, <del>, <hr>.  
+
+ * What has been easy?
+ 
+The easy part was to Include the new codes per instruction into the existing codes was easy to assert as I didn't have to write all the codes from the scratch.
+
+ * What has been difficult?
+  
+I had to research for the new html tags in MDN and google. For example how to strikethrough lines, how to put a horizontal line.
+
+ * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+Taking a lot of help from google, MDN and Udacity lessons helped me a lot for this project. Following a proper html tree structure also helped me to be able to ease on codes.
